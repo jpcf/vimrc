@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/LPGBT/digital/rs-asic/verilog'
+let g:netrw_dirhist_2='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/LPGBT/digital/rs-asic/config'
+let g:netrw_dirhist_3='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/LPGBT/digital/serializer'
+let g:netrw_dirhist_4='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/LPGBT2/digital/ePortTx'
+let g:netrw_dirhist_5='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/LPGBT2/digital/dataPath/config/upLinkDataPath'
+let g:netrw_dirhist_6='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/LPGBT2/digital/dataPath/config'
+let g:netrw_dirhist_7='/projects/TSMC65/GBT65/V4.0/workAreas/jcastrof/i2c/dut_connection_template/unidir_bus'
+let g:netrw_dirhist_8='/cerneda/mentor/2016/RHELx86/QUESTA-VIP_10_5_beta1_20160313_uvm/examples/i2c'
