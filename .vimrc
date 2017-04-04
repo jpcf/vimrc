@@ -55,6 +55,6 @@ set hlsearch
 "Prevents vim from cluttering the folder with backup and/or swap files
 set nobackup
 set nowritebackup
-set noswap
+set noswapfile
 
 
